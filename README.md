@@ -9,8 +9,3 @@ http://www.angular-meteor.com/tutorials/socially/
 - Go inside /socially folder
 - install the required node packages with [ meteor npm install ]
 - run the app with [ meteor ]
-
-
-
-
-
